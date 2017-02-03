@@ -173,7 +173,7 @@ legend(48,1,legend = Tense,
 #Part II: Tense Analysis and Sentiment Analysis Combination
 ###Question 5: What emotion did presidents have when they used different tense?
 #####Assumption: They may have more negative emotion when they talked about the past and have more postive emotion when they talked about present and future.
-```{r, fig.height=3, fig.width=5}
+```{r, fig.height=3, fig.width=5, warning=FALSE, message=FALSE}
 library(ggplot2)
 library(tidyr)
 # Merge the sub-tenses into main tenses and calculate the mean emotion scores for each main tenses.
