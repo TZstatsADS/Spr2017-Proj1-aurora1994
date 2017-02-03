@@ -22,7 +22,7 @@ Term: Spring 2017
 
 + Rmd File Link(https://github.com/TZstatsADS/Spr2017-Proj1-aurora1994/blob/master/doc/Project1.Rmd)
 
-+ Visualization:
++ Visualization Output:
 ![image](output/fig1.png)
 ![image](output/fig2.png)
 ![image](output/fig3.png)
