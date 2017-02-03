@@ -22,6 +22,12 @@ Term: Spring 2017
 
 + Rmd File Link(https://github.com/TZstatsADS/Spr2017-Proj1-aurora1994/blob/master/doc/Project1.Rmd)
 
++ Visualization:
+![image](output/fig1.png)
+![image](output/fig2.png)
+![image](output/fig3.png)
+![image](output/fig4.png)
+
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
